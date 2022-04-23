@@ -57,7 +57,7 @@ I would spend time figuring out how I can maybe create transitions for the pages
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording] https://photos.app.goo.gl/wm94HDVV6yAgdDde9
 
 
 ## License
