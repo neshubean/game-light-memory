@@ -4,7 +4,7 @@
 
 Submitted by: **Annesha Ghosh**
 
-Time spent: **8** hours spent in total
+Time spent: **9** hours spent in total
 
 Link to project: https://glitch.com/edit/#!/persistent-bristle-ash
 
@@ -39,23 +39,20 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
+https://drive.google.com/file/d/1Dem7sUnbI1vAP3lrrky24M078Z7C-9KF/view?usp=sharing
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+I googled what methods exist, primarily using w3schools website.
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+I had a lot of difficulties with navigating git in terms of submitting my work. However, currently, I am working on a project in my computer science class and building a version of git, so due to the familiarity I developed with the system I was able to figure out where I may be going wrong and address it accordingly. I broke down the process through which I was uploading and submitting and realized the issue was coming from the fact that I had created a repo initially and then had deleted it due to my laptop glitching at the time and recreated a new repo with the same name, but my desktop app was trying to access and push to the deleted repo, so I created a new repo with a different repo to proceed. I also have been sick for a bit now and before that I had midterms so I wasn't feeling healthy while completing this project even though I was enjoying it so much, so I paced myself accordingly to my health and made sure to take breaks and play with the program at a deeper level when I am feeling healthier. Also, in general, I really valued breaking down every line of code and making sure to at least understand and internalize what I have written.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+I am so fascinated by it! I feel like I was always very in awe of how websites worked the way they did, but understanding, even in a more basic form, how a website actually works behind the screens made it so much more approachable and I now have a new avenue I want to explore and understand more deeply. I want to figure out how I can dive deeper and deeper past the fundementals. I am curious, however, as to how the premade functions themselves translate to create what they do on the website interface, at a lower level than the code we are expressing with.
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+I would spend time figuring out how I can maybe create transitions for the pages every time I restart, I would go through the optional avenues as mentioned by CodePath, and I would try to flesh out the functions more (like the random pattern generator) so that rather than generating a new pattern every time the page is refreshed or opened, it would work every time a game ended. Also, I would try to map out how the user performed at the end of the round, and create a best scores table to save scores across multiple rounds.
 
 
 
